@@ -38,6 +38,44 @@ Supported languages for the product list include:
 
 # Phase 1
 
+## Division of Labor
+
+* Steve
+    * devops / project bootstrap
+    * backend DB design & dev
+    	* mysql
+	* sequelize
+        * batch load & unload of catalog
+    * catalog integration
+    * test automation
+    * auth0 integration
+
+* Tue
+    * backend DB dev
+    * internationalization specialist
+	* Chinese
+	* Vietnamese
+    * frontend shopping page dev
+
+* Roy
+    * frontend checkout design & dev
+    * frontend react dev
+    * internationalization specialist
+	* Korean
+
+* Alec
+    * auth0 lead
+    * admin routes (frontend & backend)
+    * business domain specialist
+
+* Glenn
+    * proj management & requirements
+    * auth0 integration
+    * catalog integration & automation
+    * frontend design & dev
+        * shopping page
+        * splash page
+
 ## User Interface
 
 Landing Page
@@ -180,6 +218,7 @@ We're gearing up for another 2 week sprint for Green Leaves. :-)
 * Alec
     * auth0 lead
     * admin routes (frontend & backend)
+    * admin dashboard design
 
 * Glenn
     * redux state management
