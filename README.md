@@ -13,8 +13,8 @@ Supported languages for the product list include:
 
 ## Development Sprints
 
-* [Phase 1](https://github.com/greenleavesbyroot/greenleaves#user-interface)
-* [Phase 2](https://github.com/greenleavesbyroot/greenleaves#phase-2)
+* [Phase 1](https://github.com/zenglenn42/glpub#user-interface)
+* [Phase 2](https://github.com/zenglenn42/glpub#phase-2)
 
 
 ## Technology Stack
