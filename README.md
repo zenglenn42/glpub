@@ -43,8 +43,8 @@ Supported languages for the product list include:
 * Steve
     * devops / project bootstrap
     * backend DB design & dev
-    	* mysql
-	* sequelize
+        * mysql
+        * sequelize
         * batch load & unload of catalog
     * catalog integration
     * test automation
@@ -53,15 +53,15 @@ Supported languages for the product list include:
 * Tue
     * backend DB dev
     * internationalization specialist
-	* Chinese
-	* Vietnamese
+        * Chinese
+        * Vietnamese
     * frontend shopping page dev
 
 * Roy
     * frontend checkout design & dev
     * frontend react dev
     * internationalization specialist
-	* Korean
+        * Korean
 
 * Alec
     * auth0 lead
