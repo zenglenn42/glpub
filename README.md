@@ -149,10 +149,6 @@ Hosting full product catalog (i.e., without ready workbench) required us to exte
 
 We're gearing up for another 2 week sprint for Green Leaves. :-)
 
-## Project Management
-
-[github kanban](https://github.com/greenleavesbyroot/greenleaves/projects/1)
-
 ## Priorities
 
 * Finish MVP from the first sprint.
